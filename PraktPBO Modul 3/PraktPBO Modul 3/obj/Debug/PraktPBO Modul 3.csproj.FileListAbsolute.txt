@@ -1,0 +1,20 @@
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.exe.config
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.exe
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.pdb
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csprojAssemblyReference.cache
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO_Modul_3.Form1.resources
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO_Modul_3.Properties.Resources.resources
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csproj.GenerateResource.cache
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csproj.CoreCompileInputs.cache
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.exe
+E:\Pindahan\Evan\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.pdb
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.exe.config
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.exe
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\bin\Debug\PraktPBO Modul 3.pdb
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csprojAssemblyReference.cache
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO_Modul_3.Form1.resources
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO_Modul_3.Properties.Resources.resources
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csproj.GenerateResource.cache
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.csproj.CoreCompileInputs.cache
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.exe
+E:\Mata Kuliah\Smt 2\Praktikum PBO\git\PraktPBO Modul 3\PraktPBO Modul 3\obj\Debug\PraktPBO Modul 3.pdb
